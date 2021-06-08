@@ -9,7 +9,7 @@ CLI script to use [GadgetProbe](https://github.com/BishopFox/GadgetProbe) as a l
 * Download GadgetProbe jar from [here](https://github.com/BishopFox/GadgetProbe/releases) and put it in same folder.
 
 #### Usage
-* Create a free DNSbin from [https://requestbin.net/dns](https://requestbin.net/dns) or [http://dnsbin.zhack.ca/](http://dnsbin.zhack.ca/)
+* Create a free DNSbin from [https://interact.projectdiscovery.io/](https://interact.projectdiscovery.io/#/) or [https://requestbin.net/dns](https://requestbin.net/dns) or [http://dnsbin.zhack.ca/](http://dnsbin.zhack.ca/)
 * Modify the python skeleton script to your needs to fuzz the deserialization endpoint
 * Run
 
